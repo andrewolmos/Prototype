@@ -1,0 +1,16 @@
+.round_img{
+    border:.5px solid blue;
+    border-radius: 50%;
+    max-width:150px;
+}
+.round_img_1{
+    border:.5px solid blue;
+    border-radius: 50%;
+    max-width:150px;
+}
+.round_img_2{
+	border:.5px solid blue;
+	border-radius: 50%;
+	max-width: 150px;
+	position: static;
+}
